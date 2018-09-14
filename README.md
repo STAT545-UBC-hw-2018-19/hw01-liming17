@@ -34,8 +34,11 @@
 
  - **Reading Manga, Watching Anime**  
  - <del>*Eating Junk Food*</del>  :joy:  **Fencing**
+
 ![d1](image/dance1.gif) ![d2](image/dance2.gif) ![d3](image/dance3.gif) ![d4](image/dance4.gif)
-       > "Junk food is a pejorative term for food containing a large number of calories from sugar or fat with little fibre, protein, vitamins or minerals."
+
+
+> "Junk food is a pejorative term for food containing a large number of calories from sugar or fat with little fibre, protein, vitamins or minerals."
 >
 > Wikipedia 
 
