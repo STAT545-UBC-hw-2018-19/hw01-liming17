@@ -1,0 +1,62 @@
+---
+title: "hw01_gapminder"
+output: github_document
+author: "Liming Liu"
+date: '2018-09-13'
+---
+
+
+## Gapminder exploration
+
+Load the `gapminder` R package
+
+```{r}
+library(gapminder)
+```
+
+Get a quick view of the data
+
+```{r}
+head(gapminder)
+```
+Get a summary of the dataset
+
+```{r}
+summary(gapminder)
+```
+
+
+## Explore the column of Asia
+
+Extract the data of Asia and get a summary
+
+```{r}
+AsiaData <- gapminder[gapminder$continent=="Asia",]
+summary(AsiaData)
+```
+Extract the data of 2007 and get a ranking according to gdpPercap in 2007
+
+```{r}
+Asia2007 <- AsiaData[AsiaData$year==2007,]
+Asia2007[rank(Asia2007$gdpPercap),]
+```
+
+
+## Explore the data of a specific country
+
+Extract the data of China and plot the trend of gdpPercap through 1952 - 2007 
+ 
+```{r}
+ChinaData <- AsiaData[AsiaData$country=="China",]
+plot(ChinaData$year,ChinaData$gdpPercap,lty=1)
+```
+ 
+Delete column Continent and Country. Look at the trends between year, lifeExp, pop, gdpPerCap columns
+
+```{r}
+ChinaData2 <- ChinaData[,-1]
+ChinaData2 <- ChinaData2[,-1]
+pairs(ChinaData2)
+```
+
+
