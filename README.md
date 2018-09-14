@@ -13,7 +13,7 @@
 
 #### Personal Information
 
-![me](image/me2.gif)
+![me](image/me3.gif)
 
 - **Name** : Liming Liu
 - **Github id** : liming17
