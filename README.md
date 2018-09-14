@@ -42,7 +42,9 @@
 >
 > Wikipedia 
 
- - **Go to Cat Cafe** (a cafe with lots of real cats to play with) 
+ - **Go to Cat Cafe** (a cafe with lots of real cats to play with, although they hardly pay attention to you) 
+
+![cat](image/Snapseed4.jpg)
 
 #### Places Planning to Visit 
 - [ ] Montreal
