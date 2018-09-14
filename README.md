@@ -13,7 +13,7 @@
 
 #### Personal Information
 
-![eat2](image/eat2.gif)
+![me](image/my.jpg)
 
 - **Name** : Liming Liu
 - **Github id** : liming17
@@ -41,7 +41,7 @@
 
  - **Go to Cat Cafe** (a cafe with lots of real cats to play with) 
 
-#### Places Plan to Visit 
+#### Places Planning to Visit 
 - [ ] Montreal
 - [ ] Finland
 - [ ] Iceland
