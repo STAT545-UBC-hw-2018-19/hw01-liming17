@@ -109,7 +109,7 @@ ChinaData <- AsiaData[AsiaData$country=="China",]
 plot(ChinaData$year,ChinaData$gdpPercap,lty=1)
 ```
 
-![](hw01_gapminder_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+![plot1](image/unnamed-chunk-6-1.png)<!-- -->
 
 Delete column Continent and Country. Look at the trends between year,
 lifeExp, pop, gdpPerCap columns
@@ -120,4 +120,4 @@ ChinaData2 <- ChinaData2[,-1]
 pairs(ChinaData2)
 ```
 
-![](hw01_gapminder_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+![plot2](image/unnamed-chunk-7-1.png)<!-- -->
