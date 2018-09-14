@@ -44,7 +44,7 @@
 
  - **Go to Cat Cafe** (a cafe with lots of real cats to play with, although they hardly pay attention to you) 
 
-![cat](image/Snapseed 4.jpg)
+![cat](image/Snapseed.jpg)
 
 #### Places Planning to Visit 
 - [ ] Montreal
